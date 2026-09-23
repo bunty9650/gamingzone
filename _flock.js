@@ -1,0 +1,1 @@
+console.log('Analytics disabled in local environment');
